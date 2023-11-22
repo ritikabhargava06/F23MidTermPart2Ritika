@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Product Collection App</string>
+    <string name="photo_button_text">Take a Photo</string>
+    <string name="save_button_text">Save</string>
+    <string name="product_edit_text_hint">Enter product name</string>
+    <string name="all_fields_required_error_msg">All fields are required</string>
+    <string name="product_list_activity_label">Products List</string>
+</resources>
